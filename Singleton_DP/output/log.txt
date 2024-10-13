@@ -1,0 +1,4 @@
+INFO: Application started
+WARNING: Low disk space warning
+ERROR: Read-only file system error
+INFO: Another operation completed
