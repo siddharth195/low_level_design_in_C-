@@ -6,3 +6,14 @@ Abstract Factory: Declares a set of methods for creating abstract products.
 Concrete Factories: Implements methods defined in the abstract factory to create concrete products.
 
 Let's consider an example where we need to create UI components (e.g., Buttons, Checkboxes) for different operating systems (Windows, MacOS). Using an abstract factory, we can handle the instantiation of these components for each specific operating system.
+
+UI component
+- button
+- checkbox 
+
+UI component factory
+- windows factory (create button , c)
+- 
+
+
+Windows factory -> createCheckbox()
